@@ -589,5 +589,25 @@
         "aliases": []
       }
     }
-  ]
+  ],
+  "groceryPrices": {
+    "Any supermarket": {
+      "Rapeseed oil": {
+        "size": 1000,
+        "pence": 230
+      },
+      "Chilli flakes": {
+        "size": 35,
+        "pence": 120
+      },
+      "Lemon juice": {
+        "size": 250,
+        "pence": 105
+      },
+      "Dried oregano": {
+        "size": 15,
+        "pence": 90
+      }
+    }
+  }
 }
