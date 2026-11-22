@@ -3,5 +3,591 @@
   "headings": {
     "welcome": "A week of meals, sorted."
   },
-  "welcomeMessage": "Choose what you like to cook and build a dinner plan for your week."
+  "welcomeMessage": "Choose what you like to cook and build a dinner plan for your week.",
+  "recipes": [
+    {
+      "id": "remote-chickpeas-bell-peppers-lime",
+      "name": "Lime & chilli chickpeas and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the chickpeas and chop the bell peppers.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-chickpeas-bell-peppers-lemon",
+      "name": "Lemon & oregano chickpeas and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the chickpeas and chop the bell peppers.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-chickpeas-cherry-tomatoes-lime",
+      "name": "Lime & chilli chickpeas and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the chickpeas and chop the cherry tomatoes.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-chickpeas-cherry-tomatoes-lemon",
+      "name": "Lemon & oregano chickpeas and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the chickpeas and chop the cherry tomatoes.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-cooked-white-beans-bell-peppers-lime",
+      "name": "Lime & chilli cooked white beans and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Cooked white beans",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the cooked white beans and chop the bell peppers.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-cooked-white-beans-bell-peppers-lemon",
+      "name": "Lemon & oregano cooked white beans and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Cooked white beans",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the cooked white beans and chop the bell peppers.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-cooked-white-beans-cherry-tomatoes-lime",
+      "name": "Lime & chilli cooked white beans and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Cooked white beans",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the cooked white beans and chop the cherry tomatoes.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-cooked-white-beans-cherry-tomatoes-lemon",
+      "name": "Lemon & oregano cooked white beans and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Cooked white beans",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the cooked white beans and chop the cherry tomatoes.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [],
+        "diet": "Vegan",
+        "protein": "Pulses",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-tuna-bell-peppers-lime",
+      "name": "Lime & chilli tuna and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Tinned tuna",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the tinned tuna and chop the bell peppers.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [
+          "Fish"
+        ],
+        "diet": "Pescatarian",
+        "protein": "Fish",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-tuna-bell-peppers-lemon",
+      "name": "Lemon & oregano tuna and bell peppers salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Tinned tuna",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Bell peppers",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the tinned tuna and chop the bell peppers.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [
+          "Fish"
+        ],
+        "diet": "Pescatarian",
+        "protein": "Fish",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-tuna-cherry-tomatoes-lime",
+      "name": "Lime & chilli tuna and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Tinned tuna",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lime",
+          "amount": 1,
+          "unit": ""
+        },
+        {
+          "name": "Chilli flakes",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the tinned tuna and chop the cherry tomatoes.",
+        "Whisk the lime juice, chilli flakes and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [
+          "Fish"
+        ],
+        "diet": "Pescatarian",
+        "protein": "Fish",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    },
+    {
+      "id": "remote-tuna-cherry-tomatoes-lemon",
+      "name": "Lemon & oregano tuna and cherry tomatoes salad",
+      "icon": "leaf.fill",
+      "minutes": 10,
+      "ingredients": [
+        {
+          "name": "Tinned tuna",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Cherry tomatoes",
+          "amount": 100,
+          "unit": "g"
+        },
+        {
+          "name": "Rapeseed oil",
+          "amount": 5,
+          "unit": "ml"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": 15,
+          "unit": "ml"
+        },
+        {
+          "name": "Dried oregano",
+          "amount": 1,
+          "unit": "g"
+        }
+      ],
+      "steps": [
+        "Drain the tinned tuna and chop the cherry tomatoes.",
+        "Whisk the lemon juice, oregano and oil. Toss with the salad and serve."
+      ],
+      "profile": {
+        "appliances": [],
+        "exclusions": [
+          "Fish"
+        ],
+        "diet": "Pescatarian",
+        "protein": "Fish",
+        "styles": [
+          "Quick meals",
+          "Lighter meals"
+        ],
+        "aliases": []
+      }
+    }
+  ]
 }
