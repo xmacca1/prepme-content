@@ -10,3 +10,7 @@ Photos are representative serving suggestions for related recipes.
 - `catalogue-potatoes.jpg` — [Mateusz Dach](https://www.pexels.com/photo/plate-with-fried-potato-and-carrot-4519711/) · [Licence](https://www.pexels.com/license/)
 - `catalogue-quinoa.jpg` — [Clément Proust](https://www.pexels.com/photo/delicious-quinoa-salad-with-fresh-greens-29283885/) · [Licence](https://www.pexels.com/license/)
 - `catalogue-bulgur.jpg` — [Lisa Fotios](https://www.pexels.com/photo/close-up-of-delicious-dish-in-plate-on-table-21531368/) · [Licence](https://www.pexels.com/license/)
+
+- `quick-salad.jpg` — [Mirela Missmg Gi](https://www.pexels.com/photo/photo-of-salad-on-plate-4039006/) · [Licence](https://www.pexels.com/license/)
+- `quick-tuna.jpg` — [Nadin Sh](https://www.pexels.com/photo/a-bowl-of-tuna-salad-with-eggs-19051902/) · [Licence](https://www.pexels.com/license/)
+- `quick-oats.jpg` — [Abdullah](https://www.pexels.com/photo/variety-of-fresh-berries-7752365/) · [Licence](https://www.pexels.com/license/)
